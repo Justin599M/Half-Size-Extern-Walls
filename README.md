@@ -4,11 +4,10 @@ Currently takes in 1 argument that is the filepath to a GCode file made by Prusa
 This program is provided as is with no liability or warranty
 
 Todo List:
-  Change how program detects when we are not longer printing external perimeters
-  Add argument for Z hop and retraction.
-  Add argument for External Flow Rate.
-  Add reversed mode: where the top half of an external line starts where the bottom half ended.
-
+  -Change how program detects when we are not longer printing external perimeters
+  -Add argument for Z hop and retraction.
+  -Add argument for External Flow Rate.
+  -Add reversed mode: where the top half of an external line starts where the bottom half ended.
 
 Known Issues:
-  G1 X Y and Z values are off by a negligible amount
+ -G1 X Y and Z values are off by a negligible amount
