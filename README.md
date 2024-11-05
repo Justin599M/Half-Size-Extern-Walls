@@ -1,6 +1,6 @@
 Version 0.6
 This program is a post slicing script that cuts external perimeter lines into 2 per layer. In theory this maintains print quality while speeding this up.
-Currently takes in 1 argument that is the filepath to a GCode file.
+Currently takes in 1 argument that is the filepath to a GCode file made by PrusaSlicer
 This program is provided as is with no liability or warranty
 
 Todo List:
